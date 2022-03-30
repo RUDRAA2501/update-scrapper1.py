@@ -1,5 +1,3 @@
-crapper.py 
-@@ -0,0 +1,41 @@
 import csv
 from bs4 import BeautifulSoup
 import requests
